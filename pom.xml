@@ -30,10 +30,10 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     <!-- spring-boot -->
-    <spring-boot.version>2.2.7.RELEASE</spring-boot.version>
+    <spring-boot.version>2.2.8.RELEASE</spring-boot.version>
 
     <!-- spring-cloud -->
-    <spring-cloud.version>Hoxton.SR5</spring-cloud.version>
+    <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
 
   </properties>
 
