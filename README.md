@@ -1,3 +1,3 @@
-# FeignClient Unit Testing in Spring Boot
+# Feign Client - Unit Testing
 
-Get Started with Spring Boot
+Get Started with Spring
