@@ -6,13 +6,6 @@
   <version>1.0.0.BUILD-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <licenses>
-    <license>
-      <name>Apache License, Version 2.0</name>
-      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
-    </license>
-  </licenses>
-
   <developers>
     <developer>
       <name>Andy Lian</name>
